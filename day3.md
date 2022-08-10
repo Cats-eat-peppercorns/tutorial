@@ -1,7 +1,7 @@
 # 这是视觉组Day3教程
 2022.8.8
 
-#内容摘要
+# 内容摘要
 -markdown
 -opencv安装
 -今日任务
@@ -28,12 +28,13 @@
 
 2.[opencv的下载及配置](https://www.bilibili.com/video/BV1E7411c7FR?is_story_h5=false&p=1&share_from=ugc&share_medium=android&share_plat=android&share_session_id=4f2d0036-7837-498d-bdf9-b6a886351a5f&share_source=QQ&share_tag=s_i&timestamp=1660108289&unique_k=TNNLahy)  
 
-#今日任务
+# 今日任务
 
 1.运行一个opencv例程并将截图发给学长
+
 2.把自己遇到和解决的问题记录下来(Markdown)并推到GitHub
 
-#Day3反馈
+# Day3反馈
 
 待day3任务完成后反馈
 
